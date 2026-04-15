@@ -10,7 +10,7 @@ Local-first voice automation agent: speak or type a command, classify intent, ex
 
 ![VoiceAgent Demo Placeholder](docs/demo.gif)
 
-> Replace `docs/demo.gif` with your recorded UI run-through (recommended: 20-40 seconds showing voice input, confirm flow, and output).
+
 
 ## Architecture
 
