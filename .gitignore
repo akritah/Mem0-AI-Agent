@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build/artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and temp
+*.log
+tmp_*
+
+# Streamlit cache
+.streamlit/
+
+# Keep output directory but ignore generated content
+output/*
+!output/.gitkeep

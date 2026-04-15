@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+faster-whisper>=1.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+groq>=0.9.0          # only needed if using Groq API for STT
+mem0ai>=0.1.94
